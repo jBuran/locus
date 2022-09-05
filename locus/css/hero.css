@@ -1,0 +1,44 @@
+.hero__content {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.hero__title {
+   font-family: "Poppins";
+   font-style: normal;
+   font-weight: 800;
+   font-size: 70px;
+   line-height: 105px;
+   color: #1c2323;
+   max-width: 674px;
+}
+.hero__description {
+   font-family: "Poppins";
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 45px;
+   color: #404242;
+   max-width: 743px;
+}
+.hero__btn {
+   background: #58a9a5;
+   border: #58a9a5 solid 1px;
+   border-radius: 20px 20px 20px 0px;
+   padding: 21px 81px;
+   font-family: "Poppins";
+   font-style: normal;
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 38px;
+   color: #ffffff;
+}
+.hero__banner {
+   max-width: 723px;
+}
+.hero__img {
+   width: 100%;
+}
+.hero {
+   margin-top: 100px;
+}

@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("./css/header.css");
+@import url("./css/hero.css");
+@import url("./css/works.css");
+@import url("./css/our.css");
+@import url("./css/footer.css");
+body {
+   font-family: "Poppins", sans-serif;
+}
+h1,
+h2 {
+   margin: 0;
+}
+a {
+   text-decoration: none;
+}
+.container {
+   max-width: 1673px;
+   margin: 0 auto;
+}
